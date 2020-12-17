@@ -7,4 +7,5 @@
     "dependencies": [
         "ui-lib",
     ],
+    "hidden": true,
 }
