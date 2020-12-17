@@ -1,0 +1,10 @@
+{
+    "name": "launchpad-destination",
+    "displayName": "Launchpad Destination Changer",
+    "author": "QmelZ",
+    "minGameVersion": 121,
+    "version": 1,
+    "dependencies": [
+        "ui-lib",
+    ],
+}
