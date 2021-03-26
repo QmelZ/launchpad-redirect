@@ -5,7 +5,7 @@ Events.on(ClientLoadEvent, () => {
             p.fill(cons(t => {
                 t.top().right();
                 t.defaults().size(200, 54);
-                t.button("launchpad", () => {
+                t.button("Redirect", Icon.upOpen, () => {
                     let s = Planets.serpulo.sectors;
                     p.showSelect(s.get(15), d => {
                         s.each(e => {
