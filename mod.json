@@ -1,9 +1,10 @@
 {
     "name": "launchpad-redirect",
     "displayName": "Launchpad Redirect",
-    "author": "QmelZ",
-    "version": 2,
+    "author": "QmelZ, MonoScyron",
+    "description": "Allows you to redirect all launchpads with one button. Original mod made by QmelZ, v7 port by MonoScyron.",
+    "version": 3,
     "minGameVersion": 136,
     "hidden": true,
-    "repo": "Badly-Timed-Joke/launchpad-redirect-v7"
+    "repo": "MonoScyron/launchpad-redirect-v7"
 }
