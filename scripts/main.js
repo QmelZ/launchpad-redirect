@@ -3,7 +3,7 @@ Events.on(ClientLoadEvent, () => {
     p.shown(() => {
         if(p.mode === PlanetDialog.Mode.look){
             p.fill(cons(t => {
-                t.top().right();
+                t.top().left();
                 t.defaults().size(200, 54);
                 t.button("Redirect", Icon.upOpen, () => {
                     let s = Planets.serpulo.sectors;

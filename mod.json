@@ -1,0 +1,9 @@
+{
+    "name": "launchpad-redirect",
+    "displayName": "Launchpad Redirect",
+    "author": "QmelZ",
+    "version": 2,
+    "minGameVersion": 136,
+    "hidden": true,
+    "repo": "Badly-Timed-Joke/launchpad-redirect-v7"
+}
