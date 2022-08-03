@@ -21,7 +21,7 @@ Events.on(ClientLoadEvent, () => {
                     }
                     else {
                         if (t.getChildren().size <= 1) {
-                            t.add("No launchpads in Erekir (yet)", Color.scarlet);
+                            t.add("No launchpads here (yet)", Color.scarlet);
                         }
                     }
                 });
