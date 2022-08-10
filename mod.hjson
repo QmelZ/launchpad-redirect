@@ -1,8 +1,0 @@
-{
-    name: "launchpad-redirect",
-    displayName: "Launchpad Redirect",
-    author: "QmelZ",
-    version: 2,
-    minGameVersion: 126,
-    hidden: true
-}
